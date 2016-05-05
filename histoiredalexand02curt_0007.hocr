@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./histoiredalexand02curt_0007.png"; bbox 0 0 1690 3067; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 38 871 1429 1232">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 38 871 1429 1232">
+     <span class='ocr_line' id='line_1_1' title="bbox 183 871 1369 996; baseline -0.009 1"><span class='ocrx_word' id='word_1_1' title='bbox 183 871 1369 996; x_wconf 63' lang='lat' dir='ltr'>HISTOIRE&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 38 1105 1429 1232; baseline -0.005 0"><span class='ocrx_word' id='word_1_2' title='bbox 38 1105 1429 1232; x_wconf 86' lang='lat' dir='ltr'><strong>D’ALEXANDRE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 77 1321 1397 1687">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 77 1321 1397 1687">
+     <span class='ocr_line' id='line_1_3' title="bbox 299 1321 1157 1468; baseline -0.002 -12"><span class='ocrx_word' id='word_1_3' title='bbox 299 1321 485 1456; x_wconf 81' lang='lat' dir='ltr'><strong>LE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 547 1355 1157 1468; x_wconf 80' lang='lat' dir='ltr'><strong><em>GRAND‚</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 77 1522 1397 1687; baseline 0 -23"><span class='ocrx_word' id='word_1_5' title='bbox 77 1522 317 1664; x_wconf 81' lang='lat' dir='ltr'><strong>PAR</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 366 1576 1397 1687; x_wconf 67' lang='lat' dir='ltr'><strong>QUINTE-CURCE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 242 1778 1232 1843">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 242 1778 1232 1843">
+     <span class='ocr_line' id='line_1_5' title="bbox 242 1778 1232 1843; baseline 0.001 -2"><span class='ocrx_word' id='word_1_7' title='bbox 242 1783 593 1843; x_wconf 79' lang='lat' dir='ltr'><strong><em>TOME</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 678 1778 1232 1842; x_wconf 84' lang='lat' dir='ltr'><em>SECOND.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
